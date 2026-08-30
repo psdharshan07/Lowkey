@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |  Dharshan P S           | CB.EN.U4CCE25112       |  Male           |        CCE/B.TECH               |  
+|    Member 2     |  Harshith               | CB.EN.U4CCE25114       |  Male           |        CCE/B.TECH               |  
+|    Member 3     |  Mithilesh              | CB.EN.U4CCE25122       |  Male           |        CCE/B.TECH               |  
+|    Member 4     |  Sai Mugunth            | CB.EN.U4CCE25137       |  Male           |        CCE/B.TECH               |   
+|    Member 5     |  Tharun Pranav          | CB.EN.U4CCE25151       |  Male           |        CCE/B.TECH               |  
+|    Member 6     |  Shweetha               | CB.EN.U4CCE25142       |  Female         |        CCE/B.TECH               |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |    Aditya S         | assistant professor   |         ECE             | s_aditya@cb.amrita.edu   |
 | Industry       |                     |                       |                         |                          |
 
 -----
