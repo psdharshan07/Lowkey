@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26007 
+* **Problem Statement Title: Safe and Efficient Operation of Mine Vehicles in Fog and Low-Visibility Conditions in Open Cast Iron Ore Mines
+* **Theme / Category: Smart Automation / Hardware
+* **Ministry / Organization: Ministry of Steel / NMDC
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26040
+* **Problem Statement Title: Smart Water Purification and Quality Monitoring System for Rural and Mining-Affected Areas
+* **Theme / Category: Clean & Green Technology / Hardware
+* **Ministry / Organization: Department of Higher & Technical Education / Governmcnt of Jharkhand
